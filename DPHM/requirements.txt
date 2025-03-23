@@ -1,0 +1,5 @@
+CairoSVG==2.7.1
+graphviz==0.20.1
+numpy==1.24.2
+Pillow==10.1.0
+pm4py==2.2.31
